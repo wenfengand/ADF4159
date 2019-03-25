@@ -4,11 +4,11 @@
 ---
 
 ## Some Features
-@snap[west span-50]
+@snap[west]
 * Five waveform：Sawtooth, triangular, and parabolic waveform generation
 @snapend
 
-@snap[east span-50]
+@snap[east]
 ![](assets/img/block-diagram.png)
 @snapend
 
