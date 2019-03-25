@@ -1,14 +1,22 @@
-# Let's Get Started
+# Usage for ADF4159
+## Direct Modulation/Fast Waveform Generating,13 GHz, Fractional-N Frequency Synthesizer
 
 ---
 
-## Add Some Slide Candy
+## Some Features
+@snap[west span-50]
+* Five waveform：Sawtooth, triangular, and parabolic waveform generation
+@snapend
 
-![](assets/img/presentation.png)
+@snap[east span-50]
+![](assets/img/block-diagram.png)
+@snapend
+
+
+
 
 ---
-@title[Customize Slide Layout]
-
+## Usage Principle
 @snap[west span-50]
 ## Customize Slide Content Layout
 @snapend
